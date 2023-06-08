@@ -10,7 +10,7 @@
 우측 상단의 초록색 버튼인 [code] 버튼을 누른 후 [download ZIP] 부분을 누르면 됩니다.
 
 #### 2) 특정 파일 다운로드
-해당 파일을 클릭해서 들어간 후 흰색 [download ZIP] 부분을 누르면 됩니다.
+해당 파일을 클릭해서 들어간 후 흰색 [download raw file] 부분을 누르면 됩니다.
 
 
 연락처: contact@rloha.io
